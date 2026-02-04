@@ -2,6 +2,8 @@
 
 A Windows WPF application that helps navigate projects in `C:\Repos` and quickly launch Claude Code CLI.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **Scan & List**: Scans `C:\Repos` for first-level subfolders
