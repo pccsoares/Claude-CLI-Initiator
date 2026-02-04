@@ -8,7 +8,13 @@
       "Bash(cmd //c \"taskkill /IM ClaudeCliInitiator.exe /F\")",
       "Bash(powershell:*)",
       "Bash(magick:*)",
-      "Bash(dotnet publish:*)"
+      "Bash(dotnet publish:*)",
+      "Bash(gh release create:*)",
+      "Bash(gh release upload:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(gh api:*)"
     ]
   }
 }
