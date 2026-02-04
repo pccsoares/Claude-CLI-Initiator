@@ -2,7 +2,7 @@
 
 A Windows WPF application that helps navigate projects in `C:\Repos` and quickly launch Claude Code CLI.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/pccsoares/Claude-CLI-Initiator/main/screenshot.png)
 
 ## Features
 
